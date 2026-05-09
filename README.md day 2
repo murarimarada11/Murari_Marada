@@ -1,0 +1,15 @@
+1. What is Salesforce Platform?
+Salesforce Platform is a cloud-based platform used to create applications and manage business data online. It helps companies store customer information, automate work, and improve productivity. Since it works on the cloud, users can access it from anywhere using the internet.
+2. App, Object, Tab
+An App in Salesforce is a collection of tools, tabs, and objects used for a specific purpose. For example, a Sales App helps manage sales activities.
+An Object is used to store data in Salesforce. It is similar to a table in a database. For example, a Student object stores student details like name, roll number, and marks.
+A Tab is used to open and access objects or pages in Salesforce. It helps users easily view and manage records.
+3. Configuration vs Coding
+Configuration means creating applications using simple clicks and settings without writing code. It is easy and fast to use. Coding means writing programs using languages like Apex for advanced features and custom functionality.
+4. System Design (App + Objects + User Interaction)
+For example, in a Student Management System, we create a Student App. It contains objects such as Student, Teacher, and Course. The admin adds student details, teachers update marks, and students can view their results. This shows how users interact with the system.
+5. Screenshots from Trailhead
+6. <img width="1470" height="956" alt="Screenshot 2026-05-09 at 17 25 04" src="https://github.com/user-attachments/assets/39faea1a-697d-47d3-8b0d-75da54886129" />
+<img width="1470" height="956" alt="Screenshot 2026-05-09 at 17 53 27" src="https://github.com/user-attachments/assets/3c5386c7-9190-4a9b-8c53-4ed4a009c712" />
+<img width="1470" height="956" alt="Screenshot 2026-05-09 at 17 53 27" src="https://github.com/user-attachments/assets/8bd6be98-1bc6-4005-afcb-c6cfbb4bf766" />
+<img width="1470" height="956" alt="Screenshot 2026-05-09 at 17 54 52" src="https://github.com/user-attachments/assets/d4eb8531-d33c-43cf-b688-8155edf753a1" />
